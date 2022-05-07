@@ -1,5 +1,5 @@
 # [KD Botz](https://t.me/kd_botz)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii+I+Am+Kunal+Nagar!;Owner+of+KD+Botz+😎!;A+TG+Bot+Devloper!;Join+for+more+updates+KD_Botz!;start+message+with+pic!;and+all+futures!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii+I+Am+Kunal+Nagar!;Owner+of+KD+Botz+😎!;A+TG+Bot+Devloper!;Join+for+more+updates+KD_Botz!;start+message+with+pic!;and+all+futures!)
 </p>
 
 <!---
