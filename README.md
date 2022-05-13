@@ -4,8 +4,8 @@
 
 
 ## Telegram Channel & Username
-- [![Kunal](https://img.shields.io/badge/Kunal-brightblue)](https://t.me/Kunal_nagar_01)
-- [![Channel](https://img.shields.io/badge/Channel-brightgreen)](https://t.me/kd_botz)
+
+
 
 <!---
 x-kunal/x-kunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
