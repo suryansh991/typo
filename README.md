@@ -3,7 +3,8 @@
 </p>
 
 
-## Telegram Channel & Username
+![Stats](https://github-readme-stats.vercel.app/api?username=X-Kunal&show_icons=true&count_private=false&theme=white)
+
 
 
 
