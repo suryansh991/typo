@@ -5,6 +5,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=X-Kunal&show_icons=true&count_private=false&theme=white)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-kunal&exclude_repo=swype-patch&theme=vue-dark&layout=compact)  
+
 
 
 
