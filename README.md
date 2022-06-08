@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii+I+Am+Kunal+Nagar!;Owner+of+KD+Botz+😎!;⚠️+TG+Bot+Devloper!;Join+for+more+updates+KD_Botz!)
 </p>
 
-![X Kunal](https://telegra.ph/file/62a7e1baa747fd9713024.jpg)
+![X Kunal](https://telegra.ph/file/ffcf006f12c372a771ec0.jpg)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=X-Kunal&show_icons=true&count_private=false&theme=white)
 
