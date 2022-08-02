@@ -9,7 +9,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-kunal&exclude_repo=swype-patch&theme=vue-dark&layout=compact)
 
 
-Telegram Username 🔥 [@Kunal_nagar_01](t.me/kunal_nagar_01)
+Telegram Username 🔥  [@Kunal_nagar_01](t.me/kunal_nagar_01)
 
 
 <!---
