@@ -1,15 +1,15 @@
-# [KD Botz](https://t.me/kd_botz)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii+I+Am+Kunal+Nagar!;Owner+of+KD+Botz+😎!;⚠️+TG+Bot+Devloper!;Join+for+more+updates+KD_Botz!)
+# [Darkest Market](https://t.me/DarkestXMarket666)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hii+I+Am+Suryansh+Pandit!;Owner+of+Darkest+Market+😎!;⚠️+TG+Bot+Devloper!;Join+for+more+updates+Darkest_Market!)
 </p>
 
-![X Kunal](https://telegra.ph/file/ffcf006f12c372a771ec0.jpg)
+![DarkestMarket](https://te.legra.ph/file/16ef7384dd2c9f8f71381.jpg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=X-Kunal&show_icons=true&count_private=false&theme=white)
+![Stats](https://github-readme-stats.vercel.app/api?username=suryansh991&show_icons=true&count_private=false&theme=white)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x-kunal&exclude_repo=swype-patch&theme=vue-dark&layout=compact)
 
 
-Telegram Username 🔥  [@Kunal_nagar_01](t.me/kunal_nagar_01)
+Telegram Username 🔥  [Suryansh Pandit](t.me/Suryansh_Pandit1)
 
 
 <!---
